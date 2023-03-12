@@ -31,7 +31,7 @@ class Response
     /**
      * @var string The IP address provided/extracted
      */
-    public $ipAddress = null;
+    public $ip = null;
 
     /**
      * @var string The domain to update.
